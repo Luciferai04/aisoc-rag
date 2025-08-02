@@ -95,7 +95,7 @@ This project is a **Live Camera Enhanced Translator** that provides real-time sp
 #### Option A: Gradio Interface Only (Basic Use)
 
 ```bash
-python app.py
+python3 live_camera_enhanced_ui.py
 ```
 
 - **Access**: `http://localhost:7860` or `http://localhost:7861`
@@ -112,7 +112,7 @@ python app.py
 2. **Start Gradio Interface** (new terminal):
  ```bash
  source flask_env/bin/activate
- python app.py
+ python live_camera_enhanced_ui.py
  ```
 
 ### Core Features
