@@ -1,0 +1,7 @@
+gymnasium
+numpy
+cvxpy
+
+matplotlib
+matplotlib
+matplotlib
